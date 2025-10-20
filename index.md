@@ -15,7 +15,9 @@
 
 ## ▶ Jugar
 > _“Las ruinas despiertan... ¿Estás lista para entrar? Recoge las reliquias... antes de que el templo te devore.”_
+
 ![Jugar](./image/jugar.png)
+
 **Objetivo del nivel**  
 - Reunir **3 fragmentos** de la Máscara y **abrir el portal de salida**.
 
