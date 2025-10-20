@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🔮 SISTEMA DE RELIQUIAS Y PORTALES
 
 **Responsable:** Aileen · 🌀 Diseño de mecánicas centrales
@@ -85,7 +85,7 @@
 
 ## 🎲 Posible expansión futura (Modo infinito)
 
+
 - Si el jugador **ignora el portal**, el templo sigue generando secciones aleatorias
 - Cada portal ignorado **incrementa el multiplicador**
 - **HUD cambiaría de color** (de turquesa → rojo arcano)
->>>>>>> 7676e26b3a5fd6f724b86993c13309bd36fb670a
